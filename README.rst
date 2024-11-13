@@ -20,6 +20,15 @@ components <https://developers.home-assistant.io/docs/creating_component_index/>
 If you run into issues while using Home Assistant or during development
 of a component, check the `Home Assistant help section <https://home-assistant.io/help/>`__ of our website for further help and information.
 
+Contributing
+------------
+Contributions are welcome! Please see the `Contributing Guidelines <CONTRIBUTING.md>`_ for more details.
+
+License
+-------
+This project is licensed under the terms of the `Apache License 2.0 <LICENSE.md>`_.
+
+
 |ohf-logo|
 
 .. |Chat Status| image:: https://img.shields.io/discord/330944238910963714.svg
